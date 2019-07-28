@@ -1,6 +1,6 @@
 class Dog < ActiveRecord::Base
 
-  Dog.create(name:, breed:)
+  Dog.create(name: breed:)
 
 
 
